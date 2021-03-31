@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/VinnyPutty/invoicer-angular-demo1.git"
+    "url": "https://github.com/4dpolytopes/invoicer-angular-demo1.git"
   },
   "scripts": {
     "ng": "ng",
@@ -14,7 +14,8 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "git help": ""
   },
   "private": true,
   "dependencies": {
